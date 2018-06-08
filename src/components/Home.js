@@ -11,7 +11,7 @@ export default class Home extends Component {
 
       <section className="top-container">
         <header className="showcase">
-          <img src="../assets/Profile.jpg" alt="profile-pic" />
+          <img src="assets/Profile.jpg" alt="profile-pic" />
           <h1>Eric Deleon</h1>
           <hr/>
           <p>ReactJS | NodeJS | JavaScript | GridCSS | Java | C | Command Line</p>
