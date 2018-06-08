@@ -10,7 +10,7 @@ import Navbar from './components/CustomNavbar';
 class App extends Component {
   render() {
     return (
-      <Router>
+      <Router basename = "/react-website/">
         <div>
           <Navbar />
           <Switch>
