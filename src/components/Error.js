@@ -7,7 +7,7 @@ export default class Error extends Component {
     return (
       <div className="wrapper">
         <div className="error-page">
-          <img src="./assets/dne.png" alt="error" />
+          <img src="assets/dne.png" alt="error" />
         </div>
       </div>
     )

@@ -18,11 +18,11 @@ export default class Home extends Component {
 
           <div className="social-links">
           {/* LinkedIn */}
-          <a href='http://linkedin.com/in/eric-deleon' target="_blank" rel="noopener noreferrer">
+          <a href='https://linkedin.com/in/eric-deleon' target="_blank" rel="noopener noreferrer">
             <i className="fab fa-linkedin-in" aria-hidden="true" />
           </a>
           {/* Github */}
-          <a href="http://github.com/ericdleon" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/ericdleon" target="_blank" rel="noopener noreferrer">
             <i className="fab fa-github" aria-hidden="true" />
           </a>
           {/* Email */}

@@ -14,11 +14,11 @@ export default class Resources extends Component {
         <footer className="component-pages">
         <div className="social-links-pages">
         {/* LinkedIn */}
-        <a href='http://linkedin.com/in/eric-deleon' target="_blank" rel="noopener noreferrer">
+        <a href='https://linkedin.com/in/eric-deleon' target="_blank" rel="noopener noreferrer">
           <i className="fab fa-linkedin-in" aria-hidden="true" />
         </a>
         {/* Github */}
-        <a href="http://github.com/ericdleon" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/ericdleon" target="_blank" rel="noopener noreferrer">
           <i className="fab fa-github" aria-hidden="true" />
         </a>
         {/* Email */}
