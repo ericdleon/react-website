@@ -18,7 +18,7 @@ export default class Projects extends Component {
         <div className="box-projects">
           <Card className='small'
             header={<CardTitle image="assets/devpost-image.gif">Defending Hackerspace</CardTitle>}
-            actions={[<a href='https://devpost.com/software/defend-hackerspace' target="_blank" rel="noopener noreferrer"><img src="./assets/devpost.png" alt="devpost" /></a>]}>
+            actions={[<a href='https://devpost.com/software/defend-hackerspace' target="_blank" rel="noopener noreferrer"><img src="assets/devpost.png" alt="devpost" /></a>]}>
             <div className="box-text">
             HackNY | October 2016
             </div>
@@ -27,7 +27,7 @@ export default class Projects extends Component {
         <div className="box-projects">
           <Card className='small'
             header={<CardTitle image="assets/devpost-image.gif">Cyber-dome</CardTitle>}
-            actions={[<a href='https://devpost.com/software/cyberdome' target="_blank" rel="noopener noreferrer"><img src="./assets/devpost.png" alt="devpost" /></a>]}>
+            actions={[<a href='https://devpost.com/software/cyberdome' target="_blank" rel="noopener noreferrer"><img src="assets/devpost.png" alt="devpost" /></a>]}>
             <div className="box-text">
             HackNJIT | November 2016
             </div>
@@ -36,7 +36,7 @@ export default class Projects extends Component {
         <div className="box-projects">
           <Card className='small'
             header={<CardTitle image="assets/devpost-image.gif">Git Pulled VR</CardTitle>}
-            actions={[<a href='https://devpost.com/software/git-pulled-vr' target="_blank" rel="noopener noreferrer"><img src="./assets/devpost.png" alt="devpost" /></a>]}>
+            actions={[<a href='https://devpost.com/software/git-pulled-vr' target="_blank" rel="noopener noreferrer"><img src="assets/devpost.png" alt="devpost" /></a>]}>
             <div className="box-text">
             HackRPI | November 2016
             </div>
@@ -54,7 +54,7 @@ export default class Projects extends Component {
         <div className="box-projects">
           <Card className='small'
             header={<CardTitle image="assets/profhacks.jpg">IT Simulator 2017</CardTitle>}
-            actions={[<a href='https://devpost.com/software/it-simulator-2017' target="_blank" rel="noopener noreferrer"><img src="./assets/devpost.png" alt="devpost" /></a>]}>
+            actions={[<a href='https://devpost.com/software/it-simulator-2017' target="_blank" rel="noopener noreferrer"><img src="assets/devpost.png" alt="devpost" /></a>]}>
             <div className="box-text">
             ProfHacks | February 2017
             </div>

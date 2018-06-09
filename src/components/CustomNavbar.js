@@ -14,7 +14,6 @@ export default class CustomNavbar extends Component {
         <NavItem href="https://drive.google.com/open?id=1KJsPN4A8C2YJJExApVb12ox6VkWXtcjS"><a href="https://drive.google.com/open?id=1KJsPN4A8C2YJJExApVb12ox6VkWXtcjS" target="_blank" rel="noopener noreferrer">Résumé</a></NavItem>
         <NavItem><Link to="/resources">Resources</Link></NavItem>
       </Navbar>
-
     )
   }
 }

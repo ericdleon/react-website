@@ -66,7 +66,6 @@ export default class About extends Component {
         <footer className="component-pages">
         <div className="social-links-pages">
           {/* LinkedIn */}
-          {/* LinkedIn */}
           <a href='http://linkedin.com/in/eric-deleon' target="_blank" rel="noopener noreferrer">
             <i className="fab fa-linkedin-in" aria-hidden="true" />
           </a>
