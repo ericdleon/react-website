@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { Card, CardTitle } from 'react-materialize';
+import Theme from './ChangeTheme';
 
 import '../App.css';
 
@@ -80,6 +81,7 @@ export default class Projects extends Component {
           </a>
         </div>
         </footer>
+        <center><Theme /></center>
 
       </div>
     )

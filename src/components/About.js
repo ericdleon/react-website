@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Skills from './Skills';
+import Theme from './ChangeTheme';
 import '../App.css';
 
 export default class About extends Component {
@@ -79,6 +80,7 @@ export default class About extends Component {
           </a>
         </div>
         </footer>
+          <center><Theme /></center>
 
       </div>
     )

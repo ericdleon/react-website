@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { Icon } from 'react-materialize';
 import { Link } from 'react-router-dom';
+import Theme from '../components/ChangeTheme';
 import '../App.css';
 
 export default class Home extends Component {
@@ -53,8 +54,9 @@ export default class Home extends Component {
         </div>
       </section>
 
-      <footer>
+      <footer className="footer">
         <p>Eric Deleon &copy; 2018</p>
+        <center><Theme /></center>
       </footer>
 
       </div>

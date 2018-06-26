@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-
+import Theme from './ChangeTheme';
 import '../App.css';
 
 export default class Resources extends Component {
@@ -27,6 +27,7 @@ export default class Resources extends Component {
         </a>
         </div>
         </footer>
+        <center><Theme /></center>
 
       </div>
     )
