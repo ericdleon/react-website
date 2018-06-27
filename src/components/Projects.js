@@ -1,21 +1,18 @@
-import React, { Component } from 'react';
+import React from 'react';
 import { Card, CardTitle } from 'react-materialize';
 import Theme from './ChangeTheme';
 
 import '../App.css';
 
-
-export default class Projects extends Component {
-  render() {
-    return (
-      <div className="wrapper">
+const Projects = () => {
+  return (
+    <div className="wrapper">
 
       <section className="section-name">
         <h4>Projects</h4>
       </section>
 
       <section className="boxes-projects">
-
         <div className="box-projects">
           <Card className='small'
             header={<CardTitle image="assets/devpost-image.gif">Defending Hackerspace</CardTitle>}
@@ -61,11 +58,10 @@ export default class Projects extends Component {
             </div>
           </Card>
         </div>
-
       </section>
 
 
-        <footer className="component-pages">
+      <footer className="component-pages">
         <div className="social-links-pages">
           {/* LinkedIn */}
           <a href='https://linkedin.com/in/eric-deleon' target="_blank" rel="noopener noreferrer">
@@ -80,10 +76,11 @@ export default class Projects extends Component {
             <i className="fas fa-envelope" aria-hidden="true" />
           </a>
         </div>
-        </footer>
-        <center><Theme /></center>
+      </footer>
 
-      </div>
-    )
-  }
+      <center><Theme /></center>
+
+    </div>
+  );
 }
+export default Projects;

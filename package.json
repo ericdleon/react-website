@@ -54,7 +54,6 @@
     "start": "node scripts/start.js",
     "build": "node scripts/build.js",
     "test": "node scripts/test.js --env=jsdom",
-    "sass": "node-sass -w ./src/scss/ -o ./src/css/",
     "predeploy": "npm run deploy",
     "deploy": "gh-pages -d build"
   },
