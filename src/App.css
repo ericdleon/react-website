@@ -515,7 +515,7 @@ button:focus {
     'bottom-box-b';
   }
 
-  .brand-logo {
+  a.brand-logo {
     display: block;
     margin-left: 0;
   }
