@@ -9,7 +9,7 @@ const CustomNavbar = () => {
       <NavItem><Link to="/">Home</Link></NavItem>
       <NavItem><Link to="/about">About</Link></NavItem>
       <NavItem><Link to="/projects">Projects</Link></NavItem>
-      <NavItem href="https://drive.google.com/open?id=1KJsPN4A8C2YJJExApVb12ox6VkWXtcjS"><a href="https://drive.google.com/open?id=1KJsPN4A8C2YJJExApVb12ox6VkWXtcjS" target="_blank" rel="noopener noreferrer">Résumé</a></NavItem>
+      <NavItem href="https://drive.google.com/open?id=1ECT0jxcTO5ytK2hBf6z_vitXZiJ5Ebzh"><a href="https://drive.google.com/open?id=1ECT0jxcTO5ytK2hBf6z_vitXZiJ5Ebzh" target="_blank" rel="noopener noreferrer">Résumé</a></NavItem>
       <NavItem><Link to="/resources">Resources</Link></NavItem>
     </Navbar>
   );
