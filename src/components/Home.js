@@ -41,7 +41,7 @@ const Home = () => {
       <div className="top-box bottom-box-a">
         <h4>Résumé</h4>
         <Icon>picture_as_pdf</Icon>
-        <a href="https://drive.google.com/open?id=1KJsPN4A8C2YJJExApVb12ox6VkWXtcjS" target="_blank" rel="noopener noreferrer" className="btn btn-large">Here</a>
+        <a href="https://drive.google.com/open?id=1ECT0jxcTO5ytK2hBf6z_vitXZiJ5Ebzh" target="_blank" rel="noopener noreferrer" className="btn btn-large">Here</a>
       </div>
       <div className="top-box bottom-box-b">
         <h4>Resources</h4>
