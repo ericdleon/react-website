@@ -99,5 +99,8 @@
   },
   "eslintConfig": {
     "extends": "react-app"
+  },
+  "devDependencies": {
+    "html-webpack-plugin-remove": "^0.1.0"
   }
 }
